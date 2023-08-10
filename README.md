@@ -7,7 +7,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Márcio-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Márcio-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
-   <img align="center" alt="Márcio-Canva" height="30" width="90" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-thebadge&logo=Canva&logoColor=white">
+  <img align="center" alt="Márcio-Canva" height="30" width="90" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-thebadge&logo=Canva&logoColor=white">
+  <img align="center" alt="Márcio-SQL" height="30" width="90" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Márcio-Trello" height="30" width="90" src="https://img.shields.io/badge/Trello-%23026AA7.svgstyle=forthebadge&logo=Trello&logoColor=white">
 </div>
 
 ##
