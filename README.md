@@ -2,8 +2,11 @@
 
 # About me:
 :one: Estudante de Ciência da Computação na Univerisadade Nove de Julho
+<br>
 :two: Procurando um emprego Júnior em Ciências de Dados
+<br>
 :three: Aprimorando conhecimento em Ciências de Dados na formação da Data Science Academy( Formação Cientista de Dados 3.0
+<br>
 :four: Dedicação e perseverança
 
 ![-----------------------------------------------------](
