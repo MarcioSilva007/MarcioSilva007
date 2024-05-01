@@ -1,4 +1,4 @@
-### Hello, my name is Márcio Galvão🥷🏾 
+### Olá, meu nome é Márcio! Cientista de dados 🥷🏾 
 
 # About me:
 :one: Estudante de Ciência da Computação na Univerisadade Nove de Julho
