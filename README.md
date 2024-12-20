@@ -1,7 +1,7 @@
 ### Olá, meu nome é Márcio! Cientista de dados 🥷🏾 
 
 # About me:
-:one: Estudante de Ciência da Computação na Univerisadade Nove de Julho
+:one: Formado em Ciência da Computação
 <br>
 :two: Procurando um emprego Júnior em Ciências de Dados
 <br>
